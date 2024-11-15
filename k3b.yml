@@ -20,6 +20,7 @@ ingredients:
     - wodim
     - growisofs
     - dvd+rw-format
+    - sox
  dist: focal
   sources:
     - deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
